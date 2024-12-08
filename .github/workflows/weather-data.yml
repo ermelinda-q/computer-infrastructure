@@ -35,7 +35,7 @@ jobs:
           echo "No requirements.txt found, skipping dependencies installation."
         fi
 
-    # Step 4: Run the weather.sh script
+    # Step 4: Run the weather.sh script. Add x (execute file permission) to the file if needed.
     - name: Run Weather Script
       run: |
         chmod +x weather.sh
