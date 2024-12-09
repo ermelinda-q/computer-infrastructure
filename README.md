@@ -2,7 +2,6 @@
 
 ** by E. Qejvani**
 
-This repository contains my assessment submission for the Computer Infrasturcture Module.
 
 ## About this Repository.
 
