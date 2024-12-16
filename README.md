@@ -1,11 +1,11 @@
 # Computer Infrastructure Repository
 
-** by E. Qejvani**
+**by E. Qejvani**
 ***
 
 ## About this Repository.
 
-This git repository contains all the files of Computer Infrastructure module as part of my [Hdip in Computer Science in Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics#:~:text=You%20are%20a%20Level%208,topics%20in%20your%20original%20degree.) in [ATU](https://www.gmit.ie/).
+This Git repository includes all the materials for the Computer Infrastructure module, part of my [Higher Diploma in Computer Science in Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics#:~:text=You%20are%20a%20Level%208,topics%20in%20your%20original%20degree.) at [ATU](https://www.gmit.ie/).
 
 
 ## Repository Structure
