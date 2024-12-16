@@ -29,22 +29,6 @@ COMPUTER-INFRASTRUCTURE/
 |-- weather.sh                # Automated shell script that runs daily at 20:00
 ```
 
-## About this Project/Task Assessments.
-
-
-
-## Use of this Project.
-
-
-
-## Getting Started
-
-
-## Author
-
-I am a student at [ATU](https://www.atu.ie/).
-
-
 ## Contents
 
 ### Tasks
