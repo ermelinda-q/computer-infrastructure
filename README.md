@@ -23,7 +23,7 @@ COMPUTER-INFRASTRUCTURE/
 |-- img/                      # Directory for .png images used in for the tasks and the project
 |
 |-- .gitignore                # Specifies files and directories to ignore in Git
-|-- README.md                 # Documentation for the project
+|-- README.md                 # Documentation for the project (this file)
 |-- requirements.txt          # Required Python modules for the project
 |-- weather.ipynb             # Jupyter Notebook containing tasks and the project
 |-- weather.sh                # Automated shell script that runs daily at 20:00
@@ -37,15 +37,26 @@ The `weather.ipynb` file includes:
 2. **Project:** Developing an automated shell script to retrieve daily `.json` weather data from the Athenry weather station.
 
 ### Workflow
-The `.github/workflows/weather-data.yml` file manages automated workflows in this repository, such as running scripts or CI/CD tasks.
+The `.github/workflows/weather-data.yml` file manages automated workflows in this repository.
 
 ### Data
 The `data/` directory contains:
 - **Timestamps:** Stores timestamp-related files.
-- **Weather:** Contains `.json` files of weather data.
+- **Weather:** Contains `.json` files of weather data retrieved from [Athenry Weather](https://prodapi.metweb.ie/observations/athenry/today).
 
 ### Images
+
 The `img/` directory stores all `.png` files used for visualizations or references.
+
+## Assessment Purpose
+
+_The purpose of the assessment is for us to demonstrate ability in the following._
+
+- Use, configure, and script in a command line interface environment.
+- Manipulate and move data and code using the command line.
+- Compare commonly available software infrastructures and architectures.
+- Select appropriate infrastructure for a given computational task.
+
 
 ## Setup and Usage
 
@@ -66,7 +77,7 @@ The `img/` directory stores all `.png` files used for visualizations or referenc
 2. Follow the instructions within the notebook to complete tasks and run the project.
 
 ### Automating the Shell Script
-The `weather.sh` script is scheduled to run daily at 20:00 to retrieve the weather data.
+The `weather.sh` script is scheduled to run daily at 20:00 to retrieve the weather data from Athenry Weather Station.
 
 #### Steps:
 1. Grant execution permissions to the script:
