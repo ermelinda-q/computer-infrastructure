@@ -42,11 +42,11 @@ The `.github/workflows/weather-data.yml` file manages automated workflows in thi
 ### Data
 The `data/` directory contains:
 - **Timestamps:** Stores timestamp-related files.
-- **Weather:** Contains `.json` files of weather data retrieved from [Athenry Weather Station](https://prodapi.metweb.ie/observations/athenry/today).
+- **Weather:** Contains `.json` files of weather data retrieved from [Athenry Weather Station](https://prodapi.metweb.ie/observations/athenry/today) daily.
 
 ### Images
 
-The `img/` directory stores all `.png` files used for visualizations or references.
+The `img/` directory stores all `.png` files used for visualizations or references in `weather.json` notebook.
 
 ## Assessment Purpose
 
