@@ -20,7 +20,7 @@ jobs:
       with:
         persist-credentials: true # Ensures credentials are available for pushing changes
 
-    # Step 2: Set up Python (if needed by your script)
+    # Step 2: Set up Python (if needed by the script)
     - name: Set up Python Environment
       uses: actions/setup-python@v4
       with:
